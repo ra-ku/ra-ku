@@ -45,5 +45,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ra-ku&show_icons=true&theme=radium" alt="ra-ku's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=ra-ku&theme=tokyonight" alt="ra-ku's GitHub Streak" />
 </div>
